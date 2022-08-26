@@ -1,5 +1,5 @@
 { 
-  "proxy": "http://localhost:3000",
+  "proxy": "http://localhost:5040",
   "homepage": "https://ahnaf-hossain.github.io/pop",
   "name": "react-portfolio",
   "version": "0.1.0",
